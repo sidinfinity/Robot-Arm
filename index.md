@@ -1,5 +1,5 @@
 ﻿# Phone-Controlled Robot Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a Robot Arm that can move up, down, left, right, and grab objects with it's claw. It uses the ESP32 to connect to a phone through bluetooth so the phone can control the Robot Arm. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
