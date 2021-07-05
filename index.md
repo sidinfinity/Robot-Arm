@@ -4,8 +4,6 @@ This will serve as a brief description of your project. Limit this to three sent
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Siddharth Maddikayala | American Highschool | CS/AI | Incoming Freshman
-
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
 
