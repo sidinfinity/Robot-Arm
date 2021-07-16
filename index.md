@@ -23,7 +23,7 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 
 For my first milestone I finished building the robot arm, and also getting the servo motors working and using the potentiometers to move the motors. I connected each potentiometer to an analog pin so I could get an input for the motor. Servo values range from  0 to 180, but potentiometers range from 0 to 1023 so I needed to use the `map` function to scale down the input. Then I used the `Servo.write()` function to send the value to the servo and move it.
 
-<img width="1093" alt="Screen Shot 2021-07-16 at 6 35 03 AM" src="https://user-images.githubusercontent.com/56204136/125956409-929ff43c-49bc-45cf-93aa-313e44062326.png">
+<img width="1093" src="https://user-images.githubusercontent.com/56204136/125956409-929ff43c-49bc-45cf-93aa-313e44062326.png">
 
 Wiring:
  * Red wires: power
