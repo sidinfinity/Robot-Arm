@@ -9,8 +9,12 @@ My project is a Robot Arm that can move in all directions and grab objects with 
   
 # Final Milestone
 
-
+<hr>
 # Second Milestone
+
+<img width="409" alt="Screen Shot 2021-07-21 at 7 04 27 AM" src="https://user-images.githubusercontent.com/56204136/126502054-5fbc10c4-bc1f-466f-8eae-0cdd2d47e228.png">
+
+For my second milestone, I made a phone app and was able to control the robot arm with sliders on my phone. I did this by using bluetooth to communicate with the esp32. Everytime the slider's value changes, then it sends that value to the esp32, and then I use the 'Servo.write()' function of move the servo. For bluetooth, I used the mit app inventor's standard Bluetooth Client to connect to the ESP32. I use the method `AdressesandNames` to display a list of all the devices. When the esp32 is selected, I connect to it and then I can control it. 
 
 
 <hr>
@@ -21,7 +25,7 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 ![image](https://user-images.githubusercontent.com/56204136/125957336-46de98be-b3d5-44ef-8c53-6709667d0dd0.png)
 
 
-For my first milestone I finished building the robot arm, and also getting the servo motors working and using the potentiometers to move the motors. I connected each potentiometer to an analog pin so I could get an input for the motor. Servo values range from  0 to 180, but potentiometers range from 0 to 1023 so I needed to use the `map` function to scale down the input. Then I used the `Servo.write()` function to send the value to the servo and move it.
+My first milestone was that I finished building the robot arm, and also got the servo motors working and using the potentiometers to move the motors. I connected each potentiometer to an analog pin so I could get an input for the motor. Servo values range from  0 to 180, but potentiometers range from 0 to 1023 so I needed to use the `map` function to scale down the input. Then I used the `Servo.write()` function to send the value to the servo and move it.
 
 <img width="1093" src="https://user-images.githubusercontent.com/56204136/125956409-929ff43c-49bc-45cf-93aa-313e44062326.png">
 
