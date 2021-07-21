@@ -10,6 +10,7 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 # Final Milestone
 
 <hr>
+
 # Second Milestone
 
 <img width="409" alt="Screen Shot 2021-07-21 at 7 04 27 AM" src="https://user-images.githubusercontent.com/56204136/126502054-5fbc10c4-bc1f-466f-8eae-0cdd2d47e228.png">
@@ -18,6 +19,7 @@ For my second milestone, I made a phone app and was able to control the robot ar
 
 
 <hr>
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7XJVfmEx2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
