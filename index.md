@@ -13,6 +13,8 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 
 # Second Milestone
 
+<iframe width="560" height="315" src="https://youtu.be/gHARqE8VO-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img width="409" alt="Screen Shot 2021-07-21 at 7 04 27 AM" src="https://user-images.githubusercontent.com/56204136/126502054-5fbc10c4-bc1f-466f-8eae-0cdd2d47e228.png">
 
 For my second milestone, I made a phone app and was able to control the robot arm with sliders on my phone. I did this by using bluetooth to communicate with the esp32. Everytime the slider's value changes, then it sends that value to the esp32, and then I use the 'Servo.write()' function of move the servo. For bluetooth, I used the mit app inventor's standard Bluetooth Client to connect to the ESP32. I use the method `AdressesandNames` to display a list of all the devices. When the esp32 is selected, I connect to it and then I can control it. 
