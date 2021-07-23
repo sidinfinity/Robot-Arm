@@ -6,8 +6,12 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 | Siddharth Maddikayala | American Highschool | CS/AI | Incoming Freshman
 
 ![IMG_0797](https://user-images.githubusercontent.com/56204136/125087642-80214880-e081-11eb-8c0c-bb2541abb60f.jpg)
+
+# Demo Night
   
 # Final Milestone
+
+For my final milestone, I added voice control to my arm. Whenver I say the commands up, down, left, right, forward, or backward, then the robot will move in the following direction. I used the mit app inventor's default speech recognizer to recognize each word. After I've identified a word, I need to send data to the arm telling it to move. I already have a function that sends data when the slider is moved, so all I had to do was change the corresponding slider's position by +/- 10 depending on the word that was recognized by the speech recognizer. 
 
 <hr>
 
