@@ -17,7 +17,7 @@ For my final milestone, I added voice control to my arm. Whenver I say the comma
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://youtu.be/gHARqE8VO-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHARqE8VO-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img width="409" alt="Screen Shot 2021-07-21 at 7 04 27 AM" src="https://user-images.githubusercontent.com/56204136/126502054-5fbc10c4-bc1f-466f-8eae-0cdd2d47e228.png">
 
