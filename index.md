@@ -8,6 +8,10 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 ![IMG_0797](https://user-images.githubusercontent.com/56204136/125087642-80214880-e081-11eb-8c0c-bb2541abb60f.jpg)
 
 # Demo Night
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxAZC12h2RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Overall, I am glad with how my project turned out. I got to finish it and also add a cool modification which was voice control. 
   
 # Final Milestone
 
