@@ -12,8 +12,12 @@ My project is a Robot Arm that can move in all directions and grab objects with 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxAZC12h2RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Overall, I am glad with how my project turned out. I got to finish it and also add a cool modification which was voice control. 
-  
+
+<hr>
+
 # Final Milestone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ia7M4Hj8U-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img width="876" alt="Screen Shot 2021-07-23 at 7 21 15 AM" src="https://user-images.githubusercontent.com/56204136/126795911-60c11316-ee56-4008-931d-6e91962daf09.png">
 
